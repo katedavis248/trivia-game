@@ -1,0 +1,101 @@
+header {
+    height: 50px;
+    background-color: bisque;
+}
+
+body {
+    background-color: turquoise;
+}
+.wrapper {
+    height: 100%;
+}
+#contentDisplay {
+    background-color: aquamarine;
+    /* min-height: 100%; */
+}
+
+.title {
+    text-align: center;
+}
+
+#startbutton {
+    text-align: center;
+    width: 250px;
+    margin: auto;
+    border: solid black;
+    background-color: lightgrey;
+
+}
+
+.jumbotron {
+   
+
+}
+
+#question {
+    text-align: center;
+}
+
+#questiontimer {
+    text-align: center;
+    color: green;
+}
+
+#questiontimer.red {
+    text-align: center;
+    color: red;
+}
+
+#answerOne {
+    width: 450px;
+    text-align: center;
+    border: solid black;
+}
+#answerTwo {
+    width: 450px;
+    border: solid black;
+}
+#answerThree {
+    width: 450px;
+    border: solid black;
+}
+#answerFour {
+    width: 450px;
+    border: solid black;
+}
+
+
+#rightanswer {
+    text-align: center;
+    color: green;
+}
+#wronganswer {
+    text-align: center;
+    color: red;
+}
+#theAnswer {
+    text-align: center;
+}
+
+#resultsCorrect {
+    text-align: center;
+    color: green
+}
+
+#resultsIncorrect {
+    text-align: center;
+    color: red;
+}
+
+#thankYou {
+    text-align: center;
+}
+
+
+#footer {
+    background-color: bisque;
+    height: 50px;
+    /* clear: both; */
+    position: relative;
+    bottom: 0;
+}
