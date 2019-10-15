@@ -1,66 +1,28 @@
 
 var questions = [
-    "John Hammond, the InGen CEO of 'Jurassic Park', creates dinosaurs on this island...",
-    "The opening sequence of 'Saving Private Ryan' depicts what military battle of World War II?",
-    "Legendary critic and director François Truffaut appeared as a French scientist in this Spielberg film...",
-    "This actor, who plays Elliott in 'E.T. The Extra-Terrestrial', auditioned for the role in an Indiana Jones costume.",
-    "Which of these Spielberg movies features a slow-motion car chase?",
-    "Oskar Schindler runs what kind of factory in 'Schindler's List'?",
-    "What's the name of Quint's boat in 'Jaws'?",
-    "What is the villain of Spielberg's first film, 'Duel'?",
-    "Spielberg directed 'Raiders of the Lost Ark' based on a story by this fellow friend and filmmaker:",
-    "Spielberg founded a production company in the early '80s and named it this, after his first film about a hitchhiking couple.",
+    "December 11th, 1964, one of the greatest soul singers of all time was shot and killed under mysterious circumstances. Who was he?",
+    "Which of these bands who is one of many that got their start at popular punk venue 'CBGB'?",
+    "Who is known for biting the head off a bat on stage?",
+    "What was the original band name for Blondie",
+    "Who was the club owner of punk venue CBGB?",
+    "Who was the founder of The Velvet Underground",
+    "Which band sang the lyrics 'We are the champions, my friends/ And we'll keep on fighting till the end'",
+    "Which Led Zeppelin memeber is the oldest?",
+
 ];
 var answer = [
-    "ISLA NUBLAR",
-    "NORMANDY",
-    "CLOSE ENCOUNTERS OF THE THIRD KIND",
-    "HENRY THOMAS",
-    "THE SUGARLAND EXPRESS",
-    "MUNITIONS",
-    "ORCA",
-    "TANKER TRUCK",
-    "GEORGE LUCAS",
-    "AMBLIN",
+    "Sam Cooke",
+    "Talking Heads",
+    "Ozzy Ozbourne",
+    "Angel and The Snake",
+    "Hilly Crystal",
+    "Lou Reed",
+    "Queen",
+    "Jimmy Page",
+
 ];
 
-var wrongAnswerOne = [
-    "FIJI",
-    "WATERLOO",
-    "A.I. ARTIFICIAL INTELLIGENCE",
-    "RIVER PHOENIX",
-    "ALWAYS",
-    "CARS",
-    "SHARK",
-    "JEEP",
-    "FRANCES FORD COPPOLA",
-    "HITCHING POST",
-];
-var wrongAnswerTwo = [
-    "COSTA RICA",
-    "IWO JIMA",
-    "EMPIRE OF THE SUN",
-    "JOSEPH GORDON-LEVITT",
-    "HOOK",
-    "TOOLS",
-    "PORPOISE",
-    "CAR CARRIER",
-    "HARRISON FORD",
-    "BREEZIN",
-];
 
-var wrongAnswerThree = [
-    "ISLA MUERTE",
-    "BATTLE OF THE BULGE",
-    "SCHINDLER'S LIST",
-    "BRAD RENFRO",
-    "CLOSE ENCOUNTERS OF THE THIRD KIND",
-    "TOYS",
-    "DOLPHIN",
-    "TOW TRUCK",
-    "MARTIN SCORSESE",
-    "HITCHIN",
-];
 
 
 var intervalId;

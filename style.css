@@ -1,16 +1,16 @@
 header {
     height: 50px;
-    background-color: bisque;
+    background-color: rgb(188, 241, 239);
 }
 
 body {
-    background-color: turquoise;
+    background-color: grey;
 }
 .wrapper {
     height: 100%;
 }
 #contentDisplay {
-    background-color: aquamarine;
+    background-color: black;
     /* min-height: 100%; */
 }
 
@@ -27,10 +27,10 @@ body {
 
 }
 
-.jumbotron {
+
    
 
-}
+
 
 #question {
     text-align: center;
